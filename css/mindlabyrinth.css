@@ -1,0 +1,84 @@
+body {
+	padding: 20px 20px 20px 20px;
+	background-color: #f9f8f8; 
+	font-family: 'News Cycle', sans-serif;
+	background-size: cover;
+	background-attachment: cover;
+	font-size: 1.2rem;
+}
+
+p {
+	text-align: center;
+	padding-left: 200px;
+	padding-right: 200px;
+	font-size: 30px;
+}
+
+h1 {
+	font-family: 'Orbitron', sans-serif;
+	color: #000;
+	text-align: center;
+	font-size: 100px;
+}
+
+h2 {
+	font-family: 'Orbitron', sans-serif;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+a:hover {
+	color: #000;
+}
+
+a:link {
+	font-family: 'Orbitron', sans-serif;
+	text-decoration: none;
+	font-weight: 400; 
+	color: #858585;
+}
+
+a:visited{
+	color: #858585;
+}
+
+#container {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%; 
+	padding: 2%; 
+	margin-top: 10px;
+	border-radius: 0.5em;
+	text-align: center;
+	background-image: url('images/puttingittogetherBG.jpg');
+}
+
+#grey-text {
+	color: #858585;
+}
+
+#choicecontainer {
+	background-color: #fff;
+	padding: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+	opacity: 0.8;
+}
+
+input[type=textarea] {
+	background-color: #858585;
+	color: white;
+	width: 1000px;
+	height: 300px;
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+	text-align: center;
+	resize: both;
+}
+
+input[type=textarea]:focus {
+	border: 3px solid #555;
+}
