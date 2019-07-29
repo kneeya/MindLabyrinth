@@ -1,4 +1,4 @@
-# MindLabyrinth - Group Project at RidgeHacks 2016
+# MindLabyrinth
 A simple-to-use online web application which prompts 
 your responses and changes its questions according to
 what you likely feel the need to talk about the most. 
