@@ -17,3 +17,5 @@ your actions and the consequences.
 This way, you can make the most rational 
 decisions based on your situation and your
 own perception of what would most likely happen next. 
+
+Our Submission to RidgeHacks 2016: https://devpost.com/software/mind-labyrinth-x5hpw8
